@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "世界の終わり / 虹色の戦争",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2026-02-12T12:48:04.376049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界の終わり",
+      "artist": "ROTTENGRAFFTY",
+      "has_synced": true,
+      "path": "select/01_世界の終わり_ROTTENGRAFFTY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "世界の終わり",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/02_世界の終わり_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "世界の終わり",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/03_世界の終わり_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "嵐の前、世界の終わり",
+      "artist": "櫻坂46",
+      "has_synced": false,
+      "path": "select/04_嵐の前、世界の終わり_櫻坂46.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "世界の終わり",
+      "artist": "音速ライン",
+      "has_synced": false,
+      "path": "select/05_世界の終わり_音速ライン.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "世界の終わり (primitive version)",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/06_世界の終わり_(primitive_version)_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "世界の終わり - Primitive Version",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/07_世界の終わり_-_Primitive_Version_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夏の終わり／世界の終わり",
+      "artist": "凋叶棕",
+      "has_synced": true,
+      "path": "select/08_夏の終わり_世界の終わり_凋叶棕.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夏の終わり／世界の終わり - Natsu no Owari / Sekai no Owari",
+      "artist": "凋叶棕 -Diao ye zong-",
+      "has_synced": true,
+      "path": "select/09_夏の終わり_世界の終わり_-_Natsu_no_Owari___Sekai_no_Owari_凋叶棕_-Diao_ye_zong-.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "世界の終わり(Primitive version)",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/10_世界の終わり(Primitive_version)_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "世界の終わり (Primitive Version) –Remastered– - World's end (Primitive Version) –Remastered–",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/11_世界の終わり_(Primitive_Version)_–Remastered–_-_World's_end_(Primitive_Version)_–Remas_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界の終わり/幻の命",
+      "artist": "世界の終わり",
+      "has_synced": false,
+      "path": "select/pl_01_世界の終わり_幻の命_世界の終わり.txt"
+    }
+  ]
+}
